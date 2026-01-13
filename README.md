@@ -16,15 +16,6 @@ The model learns complex relationships between input features and a continuous t
 
 ---
 
-## 📂 Files in Repository
-
-ANN-Regression/
-│
-├── ANN_Regression.ipynb
-└── README.md
-
-
----
 
 ## 🔧 Model Architecture
 
@@ -55,6 +46,16 @@ ANN-Regression/
 4. Compile and train the model  
 5. Evaluate model using regression metrics  
 6. Visualize actual vs predicted values
+
+---
+
+
+## 📈 Applications
+
+- House price prediction  
+- Sales forecasting  
+- Demand estimation  
+- Financial trend prediction  
 
 ---
 
